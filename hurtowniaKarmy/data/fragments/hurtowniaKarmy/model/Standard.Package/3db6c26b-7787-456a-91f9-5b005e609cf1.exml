@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="hurtowniakarmy" version="4">
+  <OBJECT>
+    <ID name="hurtowniakarmy" mc="Standard.Package" uid="3db6c26b-7787-456a-91f9-5b005e609cf1"/>
+    <PID name="hurtowniaKarmy" mc="Standard.Project" uid="92c72a21-81b9-4abb-a00a-77f8ba53be32"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[hurtowniakarmy]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

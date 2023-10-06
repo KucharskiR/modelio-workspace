@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="hurtowniaKarmy" version="4">
+  <OBJECT>
+    <ID name="hurtowniaKarmy" mc="Standard.Project" uid="92c72a21-81b9-4abb-a00a-77f8ba53be32"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[hurtowniaKarmy]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="hurtowniakarmy" mc="Standard.Package" uid="3db6c26b-7787-456a-91f9-5b005e609cf1"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="hurtowniaKarmy" mc="Infrastructure.DiagramSet" uid="c45e8a58-2aff-441d-a593-76a8a513900a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
